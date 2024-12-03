@@ -53,5 +53,5 @@ func main() {
 
 	setupRoutes(app)
 	// Start server on port 8080
-	app.Listen(":8080")
+	app.Listen(":8000")
 }
